@@ -466,7 +466,7 @@
         {
           "id": "evil_checkintitle",
           "name": "标题",
-          "val": "",
+          "val": "sst-hxg，sst-888",
           "placeholder": "请填写，例如：隔壁西站",
           "type": "textarea",
           "autoGrow": true,
@@ -476,7 +476,7 @@
         {
           "id": "evil_checkinlogin",
           "name": "网址",
-          "val": "",
+          "val": "https://www.xn--5usx3imxy3i5a.com/auth/login，www.xn--5usx3imxy3i5a.com/auth/login",
           "placeholder": "请填写，例如：https://example.com/auth/login",
           "type": "textarea",
           "autoGrow": true,
@@ -486,7 +486,7 @@
         {
           "id": "evil_checkinemail",
           "name": "邮箱",
-          "val": "",
+          "val": "hxg_s@qq.com，houxinggui888@gmail.com",
           "placeholder": "请填写，例如：example@v2bz.com",
           "type": "textarea",
           "autoGrow": true,
@@ -496,7 +496,7 @@
         {
           "id": "evil_checkinpwd",
           "name": "密码",
-          "val": "",
+          "val": "h19911217，h19911217",
           "placeholder": "请填写，例如：password",
           "type": "textarea",
           "autoGrow": true,
